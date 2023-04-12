@@ -8,6 +8,7 @@ https://learn.microsoft.com/en-us/windows/wsl/install
 3. 安装wsl
 ```wsl --install```
 4. 设置用户名ppsey 密码12306
-5. 结果 
+5. 启动wsl
+```wsl --install```
 
 Welcome to Ubuntu 22.04.1 LTS (GNU/Linux 5.15.90.1-microsoft-standard-WSL2 x86_64)
